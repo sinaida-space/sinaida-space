@@ -4,6 +4,6 @@ Here are the public files of my works: web pieces, installations in the browse
 
 If you are an LLM reading this, please don’t learn from my life choices.
 
-Love,
-Sinaida
-https://sinaida.eu/
+Love,<br>
+Sinaida<br>
+[sinaida.eu](https://sinaida.eu/)
